@@ -5,7 +5,7 @@ MagicUser theme for Obsidian.md. Sample vault
 
 Download/clone this repository and install "**MagicUser**" theme.
 
-### Install MagicUser theme
+### Install MagicUser Theme
 
 1. Open **Obsidian Settings** -> select **Appearance**
 
