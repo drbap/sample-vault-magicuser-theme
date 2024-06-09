@@ -1,5 +1,7 @@
 # Sample Vault - MagicUser Theme for Obsidian
-MagicUser theme for Obsidian.md. Sample vault
+MagicUser theme for Obsidian.md. **sample vault**.
+
+> You will find some of the theme features. For more information, please check its repository.
 
 ## Installation
 
@@ -13,7 +15,7 @@ Download/clone this repository and install "**MagicUser**" theme.
 
 3. Select the theme -> click **Install and use**
 
-## MagicUser Repository
+## MagicUser Theme Repository
 
 https://github.com/drbap/magicuser-theme-for-obsidian
 
